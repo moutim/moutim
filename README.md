@@ -9,9 +9,12 @@ e aprendendo cada vez mais por pequenos projetos.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+  <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 </div>
 </p>
 
