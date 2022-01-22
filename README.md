@@ -35,6 +35,6 @@ e aprendendo cada vez mais por pequenos projetos.
 </p>
 <br>
 
-[![Vitor Moutim](https://activity-graph.herokuapp.com/graph?username=moutim&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/moutim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
