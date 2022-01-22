@@ -9,7 +9,7 @@ e aprendendo cada vez mais por pequenos projetos.
 
 <p>
 <div align="center">
-  <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+  <i class="fab fa-js"></i>
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
   <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
