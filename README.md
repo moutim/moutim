@@ -27,14 +27,9 @@ e aprendendo cada vez mais por pequenos projetos.
 ## My Statistics
 
 <br/>
-<p align="left">
-  <a href="https://github.com/moutim">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=moutim&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=moutim&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+ ![Moutim's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=moutim&theme=redical&hide_border=true&area=true)
+| ![Moutim's github stats](https://github-readme-stats.vercel.app/api?username=moutim&show_icons=true&theme=radical)             | ![Moutim GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moutim&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=moutim&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
