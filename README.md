@@ -1,5 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vitor Moutim</h1><h3 align="center">Full Stack Web Developer</h3><h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&color=38B000&center=true&vCenter=true&random=false&width=650&height=50&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitor+Moutim;Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moutim&show_icons=true&theme=dark&locale=en" alt="moutim" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moutim&theme=highcontrast" alt="moutim" /></p>
+##
+  
+Profissional com 22 anos, atualmente cursando análise e desenvolvimento de sistemas em meu
+1° semestre no Centro Universitário Senac, formado em programador web Java no Instituo PROA
+e desenvolvedor Full Stack na Trybe.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moutim&show_icons=true&theme=dark&locale=en&layout=compact&hide=python" alt="moutim" /></p>
+Tenho competências em metodologias ágeis, gestão de tempo, trabalho em equipe, comunicação
+assertiva, proatividade, adaptabilidade e em resolução de problemas.
+
+Em constante busca pelo aprendizado, atualmente domino e continuo a aprimorar minhas habilidades
+em: HTML, CSS e JavaScript, estou explorando a construção de aplicações web dinâmicas com React,
+além de garantir a qualidade do meu código com Jest e RTL. Meu interesse pelo desenvolvimento
+back-end me levou a trabalhar com C#, MySQL, NodeJS, Git, Docker, Express.JS e Testes Unitários.
+
+<div> 
+      <a href="https://www.linkedin.com/in/vitormoutim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+      <a href = "mailto:moutimg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+
+# Tecnologias
+  
+  <div margin-top=-200>
+    
+  <h3> Front-end </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,angular,bootstrap,jest" />
+  </a>
+
+  <h3> Back-end </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,nodejs,mysql,spring,aws,docker,bash,sequelize,express" />
+  </a>
+
+  <h3> Ferramentas </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,github,githubactions,eclipse,figma,idea,md,postman,powershell" />
+  </a>
+  
+  </div>
+
+  #
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutim\&rank_icon=github)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim\&layout=compact&hide=python)
