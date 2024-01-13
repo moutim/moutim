@@ -32,12 +32,12 @@
 
   <h3> 💻 Back-end </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,nodejs,mysql,spring,aws,docker,bash,sequelize,express" />
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,nodejs,mysql,spring,aws,docker,sequelize,express" />
   </a>
 
   <h3> 🛠️ Ferramentas </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,github,githubactions,eclipse,figma,idea,md,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,github,githubactions,eclipse,figma,idea,md,postman,powershell,vscode" />
   </a>
   
   </div>
