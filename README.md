@@ -45,4 +45,4 @@
   #
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moutim\&rank_icon=github)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim\&layout=compact&hide=python)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutim\&layout=compact)
