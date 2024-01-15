@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&color=38B000&center=true&vCenter=true&random=false&width=900&height=50&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitor+Moutim!;Desenvolvedor+Full+Stack." alt="Typing SVG" /></a>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B000&random=false&width=900&height=70&separator=%3C&lines=console.WriteLine(%22Meu+nome+%C3%A9+Vitor+Moutim%22);%3Cconsole.log(%22Desenvolvedor+Web+FullStack%22);" alt="Typing SVG" /></a>
+
 ### Sobre Mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac
