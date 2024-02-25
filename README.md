@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 - 🚀 Desenvolvedor Full Stack pela Trybe
 - 🌐 Programador Web Java pelo Instituto PROA
 
