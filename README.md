@@ -27,17 +27,17 @@
     
   <h3> 🌐 Front-end </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,angular,bootstrap,jest" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,angular,bootstrap,jest,typescript" />
   </a>
 
   <h3> 💻 Back-end </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,nodejs,mysql,spring,aws,docker,sequelize,express" />
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,nodejs,mysql,spring,aws,docker,sequelize,express,nestjs,redis,postgres" />
   </a>
 
   <h3> 🛠️ Ferramentas </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bash,github,githubactions,eclipse,figma,idea,md,postman,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,github,githubactions,eclipse,figma,idea,md,postman,powershell,vscode,swagger" />
   </a>
   
   </div>
