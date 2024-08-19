@@ -5,7 +5,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Desenvolvedor Full Stack pela Trybe
 - 🌐 Programador Web Java pelo Instituto PROA
-- Veja mais sobre no meu portfólio: https://portfolio-vitor-moutim.vercel.app/
+- 📓 Veja mais sobre no meu portfólio: https://portfolio-vitor-moutim.vercel.app/
 
 ### Habilidades e Competências
 
